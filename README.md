@@ -4,7 +4,7 @@
 
 This is the official codebase for the following paper, implemented in PyTorch:
 
-Author List. **Diverse Keyphrase Generation with Neural Unlikelihood Training .** Conference (Year). ArXiv Link
+Hareesh Bahuleyan and Layla El Asri. **Diverse Keyphrase Generation with Neural Unlikelihood Training.** COLING  2020. ArXiv Link
 
 ## Setup Instructions
 
@@ -85,3 +85,11 @@ _Note_: In the paper, we present EditDist as a diversity evaluation metric, for 
 
 ## Citation
 If you found this code useful in your research, please cite:
+```
+@inproceedings{divKeyGen2020,
+  title={Diverse Keyphrase Generation with Neural Unlikelihood Training},
+  author={Bahuleyan, Hareesh and El Asri, Layla},
+  booktitle={Proceedings of the 28th International Conference on Computational Linguistics (COLING)},
+  year={2020}
+}
+```
