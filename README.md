@@ -4,7 +4,7 @@
 
 This is the official codebase for the following paper, implemented in PyTorch:
 
-Hareesh Bahuleyan and Layla El Asri. **Diverse Keyphrase Generation with Neural Unlikelihood Training.** COLING  2020. ArXiv Link
+Hareesh Bahuleyan and Layla El Asri. **Diverse Keyphrase Generation with Neural Unlikelihood Training.** COLING  2020. https://arxiv.org/pdf/2010.07665.pdf
 
 ## Setup Instructions
 
